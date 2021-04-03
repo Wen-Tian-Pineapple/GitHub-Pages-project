@@ -1,2 +1,4 @@
 # GitHub-Pages-project
-CSE110 lab1
+WenTian's User Page
+
+My favorite programming language is java because it's easy to use.
