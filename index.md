@@ -32,7 +32,7 @@ Ordered List of Language:
 
 My personal web page [Web Page](https://sites.google.com/ucsd.edu/w3tian).
 
-[To top](https://github.com/Wen-Tian-Pineapple/GitHub-Pages-project/blob/vs-branch/index.md#wentians-user-page) 
+[To me as programmer](https://wen-tian-pineapple.github.io/GitHub-Pages-project/#me-as-a-programmer) 
 
 - [x] Finish my changes
 - [x] Push my commits to GitHub
