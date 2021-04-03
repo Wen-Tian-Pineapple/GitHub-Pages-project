@@ -36,4 +36,4 @@ My personal web page [Web Page](https://sites.google.com/ucsd.edu/w3tian).
 
 - [x] Finish my changes
 - [x] Push my commits to GitHub
-- [x] Submit
+- [x] Submitted
