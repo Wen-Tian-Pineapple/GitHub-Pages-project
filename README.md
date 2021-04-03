@@ -1,2 +1,2 @@
 # GitHub-Pages-project
-CSE101 lab1
+CSE110 lab1
